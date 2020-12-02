@@ -1,4 +1,4 @@
-# CS450 Computer Graphic
+# CS450 Introduction to Computer Graphics
 
 |Project|Repository|
 |:-------------|:-------------|
