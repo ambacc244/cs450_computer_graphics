@@ -8,4 +8,4 @@
 |Project4|[Repository](https://github.com/ambacc244/cs450_computer_graphics/Project4)|
 |Project5|[Repository](https://github.com/ambacc244/cs450_computer_graphics/Project5)|
 |Project6|[Repository](https://github.com/ambacc244/cs450_computer_graphics/Project6)|
-|Final Project|[Repository](https://github.com/ambacc244/cs450_computer_graphics/FinalProject)|
+|Final Project|[Repository](https://github.com/ambacc244/cs450_computer_graphics/Final_Project)|
