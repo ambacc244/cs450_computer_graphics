@@ -1,2 +1,2 @@
-# cs450
-OpenGL
+# CS450 Computer Graphic
+
